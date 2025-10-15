@@ -3,7 +3,7 @@ THATS FOR TEST
 ## CHARACTERISTIC INFORMATION
 
 ### Goal in Context
-GG
+
 As an *HR advisor* I want *to produce a report on the salary of employees of a given role* so that *I can support financial reporting of the organisation.*
 
 ### Scope
