@@ -38,16 +38,16 @@ rectangle "Population Reports System" as SYS {
   usecase "Generate Breakdown &\nLevels" as UC_BRK
   package "Breakdown & Levels" as PKG2 {
     usecase "UC-08 Population Breakdown"
-    usecase "UC-09 Population by Level"
-    usecase "UC-10 Key-Language Speakers"
-    usecase "UC-14 Breakdown Table (with %)"
+    usecase "UC-09 Population by LevelS"
+    usecase "UC-10 Key-Language SpeakersS"
+    usecase "UC-14 Breakdown Table (withS %)"
   }
 
   usecase "Generate Master Reports" as UC_MAS
   package "Master Reports" as PKG3 {
-    usecase "UC-11 Country Master"
-    usecase "UC-12 City Master"
-    usecase "UC-13 Capital City Master"
+    usecase "UC-11 Country MasterS"
+    usecase "UC-12 City MasterS"
+    usecase "UC-13 Capital City MasterS"
   }
 
   usecase "View / Download Reports" as UC_VIEW
